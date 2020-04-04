@@ -1,0 +1,24 @@
+Virus gây Covid-19, có khả năng lan truyền thầm lặng ở người trong nhiều năm, thậm chí hàng thập kỷ trước khi bùng phát thành thảm họa y tế toàn cầu.
+Nhóm nghiên cứu đến từ Mỹ, Anh và Australia xem xét dữ liệu do các nhà khoa học trên khắp thế giới công bố để tìm manh mối về quá khứ tiến hóa của nCoV. 
+Họ nhận thấy virus này có thể đã truyền từ động vật sang người từ rất lâu trước ca nhiễm đầu tiên phát hiện ở thành phố Vũ Hán thuộc miền trung Trung Quốc. 
+Dù có thể tồn tại khả năng khác, nhóm nghiên cứu cho rằng nCoV mang một đột biến không tìm thấy ở các vật chủ động vật khả nghi nhưng chắc chắn xảy ra trong những cụm lây nhiễm nhỏ ở người.
+Nghiên cứu được tiến hành bởi Kristian Andersen ở Viện nghiên cứu Scripps tại California, Ian Lipkin ở Đại học Columbia tại New York, Robert Garry ở Đại học Tulane tại New Orleans, Mỹ, Edward Holmes ở Đại học Sydney, Australia và Andrew Rambaut ở Đại học Edinburgh, Scotland. 
+Họ công bố phát hiện trên tạp chí Nature Medicine hôm 17/3.
+"Kết quả của những thay đổi tiến hóa dần dần qua nhiều năm hoặc thập kỷ là virus thực sự đạt được khả năng lây lan từ người này sang người khác và gây ra bệnh dịch đe dọa sinh mạng", nhóm tác giả cho biết.
+Vào tháng 12/2019, các bác sĩ ở Vũ Hán nhận thấy số lượng người nhiễm một dạng bệnh viêm phổi lạ tăng vọt. 
+Xét nghiệm cúm và những loại bệnh khác cho kết quả âm tính. 
+Một chủng virus chưa ai biết được cô lập. 
+Nhóm nghiên cứu ở Viện Vi trùng học Vũ Hán, đứng đầu là giáo sư Shi Zhengli truy ra nó bắt nguồn từ virus ở loài dơi tìm thấy trong hang động tại vùng núi gần biên giới Trung Quốc - Myanmar. 
+Hai loại virus này có hệ gene giống nhau tới hơn 96%, nhưng virus của dơi không lây nhiễm sang người do thiếu protein hình gai để bám vào thụ thể ở tế bào người.
+Virus corona với protein hình gai tương tự được hai nhóm nghiên cứu độc lập đến từ Quảng Châu và Hong Kong phát hiện sau đó ở tê tê Java. 
+Điều này khiến một số nhà nghiên cứu tin rằng sự tái kết hợp hệ gene xảy ra giữa virus của dơi và tê tê. 
+Nhưng nCoV, có một đột biến ở gene gọi là vị trí phân cắt chưa từng thấy ở bất kỳ virus corona nào ở dơi hoặc tê tê, theo Andersen và cộng sự.
+Đột biến này giúp tạo ra một cấu trúc riêng biệt ở protein dạng gai của nCoV để tương tác với furin, enzyme phân bố rộng rãi trong cơ thể người, qua đó thúc đẩy sự hợp nhất vỏ ngoài của virus với màng tế bào người khi chúng tiếp xúc với nhau. 
+Một số virus ở người bao gồm HIV và Ebola cũng có điểm phân cắt tương tự giúp chúng lây nhiễm rộng rãi.
+Có thể đột biến xảy ra tự nhiên đối với virus trên vật chủ động vật. 
+Ví dụ, virus gây dịch hội chứng suy hô hấp cấp tính nặng (SARS) và hội chứng hô hấp Trung Đông (MERS) được cho là hậu duệ trực tiếp của các virus tìm thấy ở cầy vòi và lạc đà bởi sự tương đồng lên tới 99% trong hệ gene. 
+Tuy nhiên, nhóm nghiên cứu của Andersen chưa tìm thấy bằng chứng trực tiếp về nguồn gốc của nCoV.
+"Có khả năng một tổ tiên của nCoV truyền sang người, đạt được những đặc điểm di truyền mô tả bên trên thông qua quá trình thích nghi khi lây nhiễm thầm lặng ở người. 
+Cuối cùng, những sự thích nghi cho phép đại dịch bùng phát và tạo ra các cụm lây nhiễm đủ lớn để hệ thống y tế phát hiện", Andersen và cộng sự giải thích.
+Họ cho biết những mô hình máy tính mạnh nhất dựa trên hiểu biết hiện nay về nCoV không thể tạo ra cấu trúc protein kỳ lạ và cho hiệu quả cao đến vậy trong liên kết với tế bào chủ. 
+Nghiên cứu cũng góp phần loại trừ khả năng nCoV bắt nguồn từ phòng thí nghiệm.
